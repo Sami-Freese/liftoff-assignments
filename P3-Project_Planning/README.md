@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-![alt text](https://github.com/Sami-Freese/liftoff-assignments/blob/master/P3-Project_Planning/MyRecipeBoxWireFrameLogIn.jpg "Login/Register Page" | width: 50%)
+![alt text](https://github.com/Sami-Freese/liftoff-assignments/blob/master/P3-Project_Planning/MyRecipeBoxWireFrameLogIn.jpg "Login/Register Page" | width=50%)
 
 ### Project Tracker
 
