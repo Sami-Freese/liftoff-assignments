@@ -13,4 +13,5 @@ https://github.com/Sami-Freese/
 https://www.linkedin.com/in/sami-freese-please/
 
 ### Resume
-[My Resume] (../C1-Online_Profiles/Sami%20Freese%20LC%20Resume%202022.pdf)
+[My Resume](https://github.com/Sami-Freese/liftoff-assignments/blob/master/C1-Online_Profiles/Sami%20Freese%20LC%20Resume%202022.pdf)
+
